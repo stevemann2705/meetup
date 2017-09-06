@@ -1,0 +1,4 @@
+Vigenere Cipher: 
+
+Encryption/Decryption: http://rumkin.com/tools/cipher/vigenere.php
+Frequency Analysis: http://www.counton.org/explorer/codebreaking/frequency-analysis.php
